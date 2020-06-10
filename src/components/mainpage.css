@@ -1,0 +1,9 @@
+.mainpage{
+    height: 660px;
+    display: flex;
+    margin: 0;
+    padding: 0;
+    background-image: url('../assets//background.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
