@@ -2,6 +2,7 @@ import React from "react";
 import { BrowserRouter, Route, Switch } from "react-router-dom";
 import NavBar from "./components/NavBar";
 import MainPage from "./components/MainPage";
+
 import "./components/mainpage.css";
 
 function App() {

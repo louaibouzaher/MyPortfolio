@@ -4,8 +4,8 @@ export default function NavBar() {
   return (
     <div>
       <ul id="navbar">
-        <li>About</li>
-        <li>Contact</li>
+        <li><a href="#about" > About</a></li>
+        <li><a href="#contact" > Contact</a></li> 
       </ul>
     </div>
   );
